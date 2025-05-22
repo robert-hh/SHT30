@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["sht30.py", "github:robert-hh/SHT30/sht30.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
